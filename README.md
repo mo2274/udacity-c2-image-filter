@@ -15,9 +15,9 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 - Postman collection file [cloud-cdnd-c2-final.postman_collection.json](./cloud-cdnd-c2-final.postman_collection.json).
 
-- Elastic Beanstalk application [link](http://image-filter-service-prod.us-east-1.elasticbeanstalk.com).
+- Elastic Beanstalk application [link](http://image-filter-starter-code-dev222222222.us-east-1.elasticbeanstalk.com/).
 
-- Screenshot of the elastic beanstalk application dashboard [deployment_screenshot.png](./deployment_screenshots/Screenshot-2020-02-21.png).
+- Screenshot of the elastic beanstalk application dashboard [deployment_screenshot.png](./deployment_screenshots/Capture.PNG).
 
 ## Technologies:
 - [Identity and Access Management (IAM)](https://aws.amazon.com/iam/)
